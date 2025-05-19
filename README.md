@@ -1,10 +1,10 @@
-# 📊 Statistical Hypothesis Testing in Python
+# Statistical Hypothesis Testing in Python
 
 This Jupyter notebook demonstrates a complete **statistical hypothesis testing workflow** using both **synthetic** and **real-world datasets**, covering **parametric** and **non-parametric** tests.
 
 ---
 
-## 🧠 Objective
+## Objective
 
 To apply and interpret various statistical hypothesis tests through a practical, step-by-step approach involving:
 
@@ -17,7 +17,7 @@ To apply and interpret various statistical hypothesis tests through a practical,
 
 ---
 
-## 📁 Structure of the Notebook
+## Structure of the Notebook
 
 | Section | Description |
 |--------|-------------|
@@ -32,7 +32,7 @@ To apply and interpret various statistical hypothesis tests through a practical,
 
 ---
 
-## 📊 Visualizations Included
+## Visualizations Included
 
 - Boxplots & Violin plots for group comparisons
 - Pairplot of Iris dataset features
@@ -41,7 +41,7 @@ To apply and interpret various statistical hypothesis tests through a practical,
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 Make sure to install the following libraries before running the notebook:
 
@@ -51,7 +51,7 @@ pip install pandas numpy scipy seaborn matplotlib scikit-learn
 
 ---
 
-## 🧪 Tests Implemented
+## Tests Implemented
 
 | Test | Use Case |
 |------|----------|
@@ -67,7 +67,7 @@ pip install pandas numpy scipy seaborn matplotlib scikit-learn
 
 ---
 
-## ✅ Key Learnings
+## Key Learnings
 
 - Always check assumptions before applying statistical tests.
 - Parametric tests offer more power but require normality and homogeneity.
@@ -77,7 +77,7 @@ pip install pandas numpy scipy seaborn matplotlib scikit-learn
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Clone or download this repo
 2. Install required packages
