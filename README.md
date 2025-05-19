@@ -87,6 +87,6 @@ pip install pandas numpy scipy seaborn matplotlib scikit-learn
 
 ---
 
-## 📧 Author
+## Author
 
 Notebook by: Md. Sadman Hasan Talukder  
